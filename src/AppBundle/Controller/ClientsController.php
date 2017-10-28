@@ -14,33 +14,14 @@ class ClientsController extends Controller
 
                     [ 'id' => 0 ,
               'title' => 'mr' ,
-                  'name' => 'Roy',
-                 'last_name' => 'Adams',
+                  'name' => 'zammel',
+                 'last_name' => 'khalifa',
                   'address' => '2872 marquette street',
-                    'zip_code' => 'new york city ',
-                  'state' => 'NY' ,
-                     'email'=> 'radams1v@example.com'
+                    'zip_code' => 'Sfax ',
+                  'state' => 'SF' ,
+                     'email'=> 'ZAMMEL@example.com'
                 ] ,
-               [ 'id' => 1 ,
-               'title' => 'mrs',
-             'name' => 'Bonnie',
-            'last_name'=> 'Clark' ,
-               'address' => '4 Porter Avenue ',
-               'zip_code' => '80028',
-               'city' => 'louisville',
-            'state' => 'CO' ,
-              'email' => 'bclark@exemple.com'
-             ],
-                     [ 'id' => 2 ,
-                'title' => 'ms',
-              'name' => 'Carol' ,
-            'last_name' => 'Shaw',
-                 'address' => '650 Grover Alley',
-              'zip_code' => '30305',
-                'city' => 'Atalanta' ,
-             'state' => 'GA' ,
-               'email' => 'cshaw@example.com'
-]
+
 ];
  private $title = ['mr', 'ms','mrs','dr','mx'];
 

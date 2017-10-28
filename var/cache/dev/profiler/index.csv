@@ -107,3 +107,7 @@ de4c7d,::1,GET,http://localhost/start/web/app_dev.php/,1493934849,,200
 bee1f1,::1,GET,http://localhost/start/web/app_dev.php/,1494155146,,200
 d104d7,::1,GET,http://localhost/start/web/app_dev.php/,1509208381,,200
 012af8,::1,GET,http://localhost/start/web/app_dev.php/,1509208386,,200
+92c0e6,::1,GET,http://localhost/start/web/app_dev.php/reservations,1509209240,,200
+a5813f,::1,GET,http://localhost/start/web/app_dev.php/guests,1509209243,,200
+8c0130,::1,GET,http://localhost/start/web/app_dev.php/guests,1509209417,,200
+00a823,::1,GET,http://localhost/start/web/app_dev.php/guests,1509209463,,200
